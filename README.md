@@ -1,5 +1,8 @@
 # Oxford Flower Dataset - WGAN Image Generation
 
+
+![Screenshot 2023-06-22 232224](https://github.com/sftSalman/FlowerGen-flowerGenerationWGAN/assets/33355278/1dfc7607-d969-405c-82ab-031709795843)
+
 This project focuses on using the Oxford Flower dataset to train a Wasserstein Generative Adversarial Network (WGAN) for generating realistic flower images. The WGAN model learns the underlying patterns and distribution of flower images and generates new images that resemble the training data.
 
 ## Dataset
