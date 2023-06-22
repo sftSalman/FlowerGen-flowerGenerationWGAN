@@ -12,14 +12,14 @@ The Oxford Flower dataset consists of images of flowers categorized into 102 dif
 
 # Key Features:
 
--WGAN architecture for flower generation
--Training on The Oxford Flower dataset
--Implementation based on PyTorch
--Transformations applied to the dataset include resizing, center cropping, and normalization
--Generator and critic models are included
--TensorBoard integration for visualizing real and generated images during training
--Saved model checkpoints for the generator, critic loss, and generator loss for further use
--By using this code, you can generate realistic flower images with diverse colors, shapes, and patterns. The trained model can be used for various applications, such as data augmentation, 
+- WGAN architecture for flower generation
+- Training on The Oxford Flower dataset
+- Implementation based on PyTorch
+- Transformations applied to the dataset include resizing, center cropping, and normalization
+- Generator and critic models are included
+- TensorBoard integration for visualizing real and generated images during training
+- Saved model checkpoints for the generator, critic loss, and generator loss for further use
+- By using this code, you can generate realistic flower images with diverse colors, shapes, and patterns. The trained model can be used for various applications, such as data augmentation, 
  artwork generation, or as a starting point for further fine-tuning.
 
 Feel free to explore the code, experiment with different hyperparameters, and contribute to the project to enhance the flower generation capabilities using WGAN.
@@ -27,10 +27,10 @@ Feel free to explore the code, experiment with different hyperparameters, and co
 
 # Requirements:
 
-PyTorch
-torchvision
-tqdm
-tensorboard
+- PyTorch
+- torchvision
+- tqdm
+- tensorboard
 
 # Instructions:
 
