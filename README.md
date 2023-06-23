@@ -41,3 +41,16 @@ Run the code and visualize the training progress using TensorBoard.
 Start generating beautiful flower images with WGAN today!
 
 
+# Hypermeter 
+`LEARNING_RATE = 5e-5
+BATCH_SIZE = 64
+IMAGE_SIZE = 64
+CHANNELS_IMG = 3
+Z_DIM = 128
+NUM_EPOCHS = 20
+FEATURES_CRITIC = 64
+FEATURES_GEN = 64
+CRITIC_ITERATIONS = 5
+WEIGHT_CLIP = 0.01
+`
+
