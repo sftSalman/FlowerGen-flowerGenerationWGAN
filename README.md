@@ -1,4 +1,4 @@
-# Oxford Flower Dataset - WGAN Image Generation
+# Oxford Flower Dataset - WGAN Image Generation - 
 
 
 ![Screenshot 2023-06-22 232224](https://github.com/sftSalman/FlowerGen-flowerGenerationWGAN/assets/33355278/1dfc7607-d969-405c-82ab-031709795843)
